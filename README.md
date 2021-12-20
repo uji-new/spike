@@ -1,12 +1,25 @@
-# UJI - EI1039 & EI1048
+
+# App (prototype)
+## Setup
+- Terminal: `git clone URL`
+- IDE: [guide for IntelliJ IDEA](https://www.jetbrains.com/help/idea/manage-projects-hosted-on-github.html#clone-from-GitHub)
 ## Maven goals
-- Build and run: spring-boot:run
-- Build frontend only: frontend:webpack
-- Clean build enviroment: clean:clean
-- IDE (IDEA): https://www.jetbrains.com/help/idea/work-with-maven-goals.html#run_goal
+- Clean: `mvn clean`
+- Run: `mvn spring-boot:run`
+- Run tests: `mvn test`
+- IDE: [guide for IntelliJ IDEA](https://www.jetbrains.com/help/idea/work-with-maven-goals.html#run_goal)
 ## Project hierarchy
-- Java: src/main/java
-- Web (static): src/main/resources/static
-- Web (React): src/main/resources/templates
-## Recommend JDK
-- OpenJDK 17: https://jdk.java.net/17/
+- Tests: `src/test/java`
+- Backend: `src/main/java`
+- Frontend: `src/main/resources`
+## Recommended software
+- JDK: [OpenJDK 17](https://jdk.java.net/17)
+- IDE: [IntelliJ IDEA 2021](https://www.jetbrains.com/idea)
+## Organization repositories
+### Project
+- Backend: [`app`](https://github.com/Team-EI1039-EI1048-2021-22/app)
+- Frontend: [`webapp`](https://github.com/Team-EI1039-EI1048-2021-22/webapp)
+- Docs: [`documentation`](https://github.com/Team-EI1039-EI1048-2021-22/documentation)
+### Other
+- Prototype: [`spike`](https://github.com/Team-EI1039-EI1048-2021-22/spike)
+- Notes: [`notes`](https://github.com/Team-EI1039-EI1048-2021-22/notes)
