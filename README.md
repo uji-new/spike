@@ -1,5 +1,5 @@
 
-# App (prototype)
+# Other (prototype)
 ## Setup
 - Terminal: `git clone URL`
 - IDE: [guide for IntelliJ IDEA](https://www.jetbrains.com/help/idea/manage-projects-hosted-on-github.html#clone-from-GitHub)
