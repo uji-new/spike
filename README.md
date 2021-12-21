@@ -9,9 +9,9 @@
 - Run tests: `mvn test`
 - IDE: [guide for IntelliJ IDEA](https://www.jetbrains.com/help/idea/work-with-maven-goals.html#run_goal)
 ## Project hierarchy
-- Tests: `src/test/java`
-- Backend: `src/main/java`
-- Frontend: `src/main/resources`
+- Tests: [`src/test/java`](src/test/java)
+- Backend: [`src/main/java`](src/main/java)
+- Frontend: [`src/main/resources`](src/main/resources)
 ## Recommended software
 - JDK: [OpenJDK 17](https://jdk.java.net/17)
 - IDE: [IntelliJ IDEA 2021](https://www.jetbrains.com/idea)
