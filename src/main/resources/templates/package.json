@@ -1,9 +1,10 @@
 {
-    "description": "Proyecto ATTD",
+    "name": "proyecto-atdd",
+    "description": "Proyecto ATDD",
     "license": "BSD-3-Clause",
     "repository": {
         "type": "git",
-        "url": "https://github.com/Team-EI1039-EI1048-2021-22/app-meteorologia.git"
+        "url": "https://github.com/proyecto-atdd/spike.git"
     },
     "dependencies": {
         "react": "17.0.2",
